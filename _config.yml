@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Clarke Vanguard'
+description: 'The Vanguard is the official school newspaper of W. Tresper Clarke High School. Our goal is to provide our main audience, the students, with a paper that emphasizes a balance between incisive global issues and local school-wide concerns. We aspire to bring sophistication to the locality and a sense of community to the world.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'wtclarkevanguard@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
